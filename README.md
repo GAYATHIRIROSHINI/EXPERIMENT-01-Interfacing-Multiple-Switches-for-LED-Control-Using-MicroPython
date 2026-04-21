@@ -78,7 +78,7 @@ For communication, I2C (SDA, SCL), SPI (MOSI, MISO, SCK), and UART (TX, RX) inte
 
 <img width="940" height="576" alt="image" src="https://github.com/user-attachments/assets/6fc9a95f-28d4-4793-bf72-f60e34877c33" />
 
-## FIGURE-02:  Circuit Diagram of Digital Input and Output Interface 
+## FIGURE-03:  Circuit Diagram of Digital Input and Output Interface 
 
 
 1. Connect switch 1 to GPIO 2 and switch 2 to GPIO 3.
