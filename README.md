@@ -2,13 +2,13 @@
 
 
  
-## NAME:
+## NAME:M GAYATHIRI ROSHINI
 
-## DEPARTMENT:
+## DEPARTMENT: CSE IOT 
 
-## ROLL NO:
+## ROLL NO:212223110012
 
-## DATE OF EXPERIMENT:
+## DATE OF EXPERIMENT:22.04.26
 
 ## AIM
 
@@ -166,32 +166,20 @@ while True:
 
 
 ## Experiment 1A:
+<img width="1920" height="1080" alt="Screenshot 2026-04-21 140456" src="https://github.com/user-attachments/assets/c5ce23ae-4d07-4e8b-9359-971be6292aa4" />
 
+<img width="1920" height="1080" alt="Screenshot 2026-04-21 140727" src="https://github.com/user-attachments/assets/7c139e39-b03f-43b2-8bf7-66a3c1d53a9f" />
 
-
-## FIGURE-04: CIRCUIT CONNECTION
-
-
-
-## FIGURE-05: CODE EXECUTION OUTPUT
-
-
-
-## FIGURE-06: LED AND BUZZER STATUS
-
+<img width="1920" height="1080" alt="Screenshot 2026-04-21 140823" src="https://github.com/user-attachments/assets/0cffa7a6-cfd0-4278-a4f9-5d6c3b5692bf" />
 
 ## Experiment 1B:
+<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/b342db51-e915-45b2-a8b5-48b751876671" />
 
+<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/e43add2a-5104-4bdf-a804-dc525692d68c" />
 
-## FIGURE-07: CIRCUIT CONNECTION
+<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/c5b3b2a9-e792-4458-80d7-c36f5917ca96" />
 
-
-
-## FIGURE-08: CODE EXECUTION OUTPUT
-
-
-
-## FIGURE-09: LED STATUS BASED ON SWITCH INPUTS
+<img width="1600" height="785" alt="image" src="https://github.com/user-attachments/assets/d91f6a7c-7aec-4ead-9dc1-ffe48f733efe" />
 
 
 ## RESULTS
